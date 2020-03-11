@@ -12,6 +12,7 @@ gunicorn==20.0.4
 idna==2.8
 pip-tools==1.8.0
 psycopg2==2.8.4
+py-postgresql==1.2.1
 python-dotenv==0.12.0
 pytz==2019.3
 requests==2.22.0
